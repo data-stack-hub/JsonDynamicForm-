@@ -132,8 +132,3 @@ npm run dev
 ## 📄 License
 
 MIT © [Your Name](https://github.com/your-username)
-```
-
----
-
-Want me to help generate the `CONTRIBUTING.md`, a sample GitHub repo structure, or a Next.js-based demo site next?
